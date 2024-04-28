@@ -1,0 +1,16 @@
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\bin\Debug\net8.0-windows\calculadoraPrestamos.exe
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\bin\Debug\net8.0-windows\calculadoraPrestamos.deps.json
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\bin\Debug\net8.0-windows\calculadoraPrestamos.runtimeconfig.json
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\bin\Debug\net8.0-windows\calculadoraPrestamos.dll
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\bin\Debug\net8.0-windows\calculadoraPrestamos.pdb
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\obj\Debug\net8.0-windows\calculadoraPrestamos.Form1.resources
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\obj\Debug\net8.0-windows\calculadoraPrestamos.csproj.GenerateResource.cache
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\obj\Debug\net8.0-windows\calculadoraPrestamos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\obj\Debug\net8.0-windows\calculadoraPrestamos.AssemblyInfoInputs.cache
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\obj\Debug\net8.0-windows\calculadoraPrestamos.AssemblyInfo.cs
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\obj\Debug\net8.0-windows\calculadoraPrestamos.csproj.CoreCompileInputs.cache
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\obj\Debug\net8.0-windows\calculadoraPrestamos.dll
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\obj\Debug\net8.0-windows\refint\calculadoraPrestamos.dll
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\obj\Debug\net8.0-windows\calculadoraPrestamos.pdb
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\obj\Debug\net8.0-windows\calculadoraPrestamos.genruntimeconfig.cache
+C:\Users\Fernan\source\repos\calculadoraPrestamos\calculadoraPrestamos\obj\Debug\net8.0-windows\ref\calculadoraPrestamos.dll

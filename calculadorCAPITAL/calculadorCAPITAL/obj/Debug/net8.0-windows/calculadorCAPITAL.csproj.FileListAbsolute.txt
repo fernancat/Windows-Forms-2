@@ -1,0 +1,16 @@
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\bin\Debug\net8.0-windows\calculadorCAPITAL.exe
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\bin\Debug\net8.0-windows\calculadorCAPITAL.deps.json
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\bin\Debug\net8.0-windows\calculadorCAPITAL.runtimeconfig.json
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\bin\Debug\net8.0-windows\calculadorCAPITAL.dll
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\bin\Debug\net8.0-windows\calculadorCAPITAL.pdb
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\obj\Debug\net8.0-windows\calculadorCAPITAL.Form1.resources
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\obj\Debug\net8.0-windows\calculadorCAPITAL.csproj.GenerateResource.cache
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\obj\Debug\net8.0-windows\calculadorCAPITAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\obj\Debug\net8.0-windows\calculadorCAPITAL.AssemblyInfoInputs.cache
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\obj\Debug\net8.0-windows\calculadorCAPITAL.AssemblyInfo.cs
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\obj\Debug\net8.0-windows\calculadorCAPITAL.csproj.CoreCompileInputs.cache
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\obj\Debug\net8.0-windows\calculadorCAPITAL.dll
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\obj\Debug\net8.0-windows\refint\calculadorCAPITAL.dll
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\obj\Debug\net8.0-windows\calculadorCAPITAL.pdb
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\obj\Debug\net8.0-windows\calculadorCAPITAL.genruntimeconfig.cache
+C:\Users\Fernan\source\repos\calculadorCAPITAL\calculadorCAPITAL\obj\Debug\net8.0-windows\ref\calculadorCAPITAL.dll
